@@ -72,4 +72,4 @@ Use correct VITE_API_URL for production
 
 Ujwal Paudel
 
-<h3 align="center">🔥 Built with consistency, not shortcuts</h3> ```
+<h3 align="center">🔥 Built with consistency, not shortcuts</h3>
