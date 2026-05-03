@@ -14,8 +14,8 @@ A secure and responsive authentication UI connected to a Node.js + Express backe
 
 ## 🚀 Live Demo
 
-🌐 Frontend: https://your-frontend.vercel.app  
-⚙️ Backend: https://your-backend.onrender.com
+🌐 Frontend: https://auth-ui-4nzu.vercel.app/login
+⚙️ Backend: comming soon
 
 ---
 
